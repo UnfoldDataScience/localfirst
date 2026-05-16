@@ -1,0 +1,16 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+requests>=2.31.0
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+rich>=13.7.0
+
+# Vector store and RAG
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# ML utilities
+numpy>=1.26.4
+
+# Optional: for cloud API integration
+openai>=1.30.0
