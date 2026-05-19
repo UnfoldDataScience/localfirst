@@ -2,12 +2,12 @@
 
 A high-performance, local-first agent stack demonstrating quantized LLM serving, RAG, and intelligent task routing.
 
-## 🎯 Goals
-- ✅ Run a local OpenAI-compatible inference server
-- ✅ Build an air-gapped RAG pipeline with ChromaDB
-- ✅ Benchmark tokens-per-second (TPS) across local backends
-- ✅ Implement intelligent hybrid routing (local/cloud)
-- ✅ Demonstrate privacy-preserving inference
+## Goals
+- Run a local OpenAI-compatible inference server
+- Build an air-gapped RAG pipeline with ChromaDB
+- Benchmark tokens-per-second (TPS) across local backends
+- Implement intelligent hybrid routing (local/cloud)
+- Demonstrate privacy-preserving inference
 
 ## Architecture
 
